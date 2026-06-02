@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-	background-color: aquamarine
+	background-color: aquamarine;
 }
 
 h2 {
@@ -12,7 +12,7 @@ h2 {
 img {
 	width: 350px;
 	border: 15px dotted blue;
-	border-radius: 50%
+	border-radius: 50%;
 }
 img: hover {
 	border:25px dashed black;
